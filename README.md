@@ -1,2 +1,2 @@
 # rockthedocs-demo
-Sphinx build project for testing purposes for RTD
+Sphinx build project for testing purposes for Read the Docs practice.
