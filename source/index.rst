@@ -12,6 +12,8 @@ Let's rock the docs.
    :maxdepth: 2
    :caption: Contents:
 
+   about
+   prerequisites
 
 
 Indices and tables
