@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Rock the Docs'
-copyright = u'2018, Anne Gentle'
+copyright = u'2018-2022, Anne Gentle'
 author = u'Anne Gentle'
 
 # The short X.Y version
