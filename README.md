@@ -1,4 +1,3 @@
-# rockthedocs-demo
-Sphinx build project for testing purposes for Read the Docs practice.
+# gh-pages branch
+This branch is just the output used to deploy the GitHub Pages site.
 
-Test the `.nojekyll` settings.
