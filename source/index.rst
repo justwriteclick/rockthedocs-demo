@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Rock the Docs's documentation!
+Welcome to Rock the Docs!
 =========================================
 
 Let's rock the docs.
