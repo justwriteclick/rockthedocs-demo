@@ -6,7 +6,7 @@
 Welcome to Rock the Docs!
 =========================================
 
-Let's rock the docs.
+Let's rock the docs. No more biased language - eliminate master from your vocabulary.
 
 .. toctree::
    :maxdepth: 2
