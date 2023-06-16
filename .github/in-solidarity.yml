@@ -1,0 +1,9 @@
+rules:
+  master:
+    level: warning
+  slave:
+    level: warning
+    message: > 
+      Please consider an alternative to `` to be compliant with the inclusive language policy.
+ignore:
+  - ".github/in-solidarity.yml"
